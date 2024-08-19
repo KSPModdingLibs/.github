@@ -2,8 +2,8 @@
 
 This organization mainly contains libraries and tools that are used by modders to build their own mods.
 
-- [Organization Wiki](https://github.com/KSPModdingLibs/.github/wiki)
-- [Organization Discussions](https://github.com/KSPModdingLibs/.github/discussions) NOTE: please use issues/discussions in indvidual repositories for library-specific topics.
+- [Organization Wiki](https://github.com/KSPModdingLibs/KSPModdingWiki/wiki)
+- [Organization Discussions](https://github.com/KSPModdingLibs/KSPModdingWiki/discussions) NOTE: please use issues/discussions in indvidual repositories for library-specific topics.
 - [All organization repositories](https://github.com/orgs/KSPModdingLibs/repositories)
 - [All organization issues](https://github.com/issues?q=is%3A+issue+is%3Aopen+org%3AKSPModdingLibs+)
 - [All organization PRs](https://github.com/pulls?q=is%3Apr+is%3Aopen+org%3AKSPModdingLibs+)
@@ -28,6 +28,6 @@ This organization mainly contains libraries and tools that are used by modders t
 - [Unity Explorer KSP](https://github.com/KSPModdingLibs/UnityExplorerKSP):
   A KSP-specific fork of [Unity Explorer](https://github.com/sinai-dev/UnityExplorer): which provides an in-game UI to inspect the Unity world
 - [Harmony KSP](https://github.com/KSPModdingLibs/HarmonyKSP):
-  A KSP-specific fork of [Harmony](https://github.com/pardeike/Harmony): which allows mods to patch code at runtime
+  A KSP-specific fork of [Harmony](https://github.com/pardeike/Harmony) which allows mods to patch code at runtime
 - [KSP Burst](https://github.com/KSPModdingLibs/KSPBurst):
   A [Burst Compiler](https://docs.unity3d.com/Packages/com.unity.burst@1.5/manual/index.html) for KSP
