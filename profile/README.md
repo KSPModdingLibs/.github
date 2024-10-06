@@ -21,6 +21,8 @@ This organization mainly contains libraries and tools that are used by modders t
   Tools for compiling and releasing mods
 - [Shabby](https://github.com/KSPModdingLibs/Shabby):
   Tools for loading shader asset bundles, replacing shaders in models, and supporting models that reference custom shaders
+- [KSPCommunityPartModules](https://github.com/KSPModdingLibs/KSPCommunityPartModules):
+  A collection of utility part modules that don't really belong in any singular mod
 - [Unity Heap Explorer](https://github.com/KSPModdingLibs/UnityHeapExplorer):
   Plugin for Unity; helps find memory leaks in your mod
 - [KSP Profiler](https://github.com/KSPModdingLibs/KSPProfiler):
