@@ -2,7 +2,6 @@
 
 This organization mainly contains libraries and tools that are used by modders to build their own mods.
 
-- [Organization Wiki](https://github.com/KSPModdingLibs/KSPModdingWiki/wiki)
 - [Organization Discussions](https://github.com/KSPModdingLibs/KSPModdingWiki/discussions) NOTE: please use issues/discussions in indvidual repositories for library-specific topics.
 - [All organization repositories](https://github.com/orgs/KSPModdingLibs/repositories)
 - [All organization issues](https://github.com/issues?q=is%3A+issue+is%3Aopen+org%3AKSPModdingLibs+)
@@ -23,6 +22,8 @@ This organization mainly contains libraries and tools that are used by modders t
   Tools for loading shader asset bundles, replacing shaders in models, and supporting models that reference custom shaders
 - [KSPCommunityPartModules](https://github.com/KSPModdingLibs/KSPCommunityPartModules):
   A collection of utility part modules that don't really belong in any singular mod
+- [KSPModdingWiki](https://github.com/KSPModdingLibs/KSPModdingWiki/wiki):
+  A publicly-editable wiki for KSP modding knowledge and guides
 - [Unity Heap Explorer](https://github.com/KSPModdingLibs/UnityHeapExplorer):
   Plugin for Unity; helps find memory leaks in your mod
 - [KSP Profiler](https://github.com/KSPModdingLibs/KSPProfiler):
