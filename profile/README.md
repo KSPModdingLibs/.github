@@ -22,6 +22,10 @@ This organization mainly contains libraries and tools that are used by modders t
   Tools for loading shader asset bundles, replacing shaders in models, and supporting models that reference custom shaders
 - [KSPCommunityPartModules](https://github.com/KSPModdingLibs/KSPCommunityPartModules):
   A collection of utility part modules that don't really belong in any singular mod
+- [HotReloadKSP](https://github.com/Phantomical/HotReloadKSP):
+  Allows for reloading a mod without restarting the game
+- [KSPTextureLoader](https://github.com/Phantomical/KSPTextureLoader):
+  Allows for much faster texture loading, and async (background thread) loading
 - [KSPModdingWiki](https://github.com/KSPModdingLibs/KSPModdingWiki/wiki):
   A publicly-editable wiki for KSP modding knowledge and guides
 - [Unity Heap Explorer](https://github.com/KSPModdingLibs/UnityHeapExplorer):
